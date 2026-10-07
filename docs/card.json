@@ -35,7 +35,7 @@
   },
   {
    "title": "One view function",
-   "body": "<p>The wheel, the tables and the API's JSON are all produced by <code>passportView</code>, so they cannot disagree. A test recorded the same repair through the interface and through the API and compared the result.</p>"
+   "body": "<p>The wheel, the tables and the API's JSON are all produced by <code>passportView</code>, so they cannot disagree.</p>"
   },
   {
    "title": "An intro that was invisible once",
