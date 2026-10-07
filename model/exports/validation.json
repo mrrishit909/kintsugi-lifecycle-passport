@@ -1,0 +1,15 @@
+{
+ "tris": 14844,
+ "bytes": 299176,
+ "missing": [],
+ "orphans": [],
+ "problems": [],
+ "seamProblems": [],
+ "seams": 27,
+ "seamsByPart": {
+  "Body": 19,
+  "Lid": 4,
+  "Handle": 2,
+  "Spout": 2
+ }
+}
